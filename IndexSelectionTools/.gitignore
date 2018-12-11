@@ -1,0 +1,6 @@
+*.txt
+.idea
+out
+indexSelectionTools.iml
+/bin/
+*.DS_Store

@@ -1,0 +1,7 @@
+To run our GUI, you will need Python 3 installed: https://www.python.org/downloads/
+
+You might also need to install the PyQt package, which you can do with pip: `pip3 install pyqt5`
+
+To compile & run our main project, simply open this in your favorite Java IDE and run the `Driver.java` file.
+
+Available workloads can be downloaded from our Drive: https://drive.google.com/drive/folders/1icOOMaK_QJbBWMNTGi82x8QHaV4eV1QY?usp=sharing
